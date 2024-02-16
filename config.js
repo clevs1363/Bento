@@ -11,8 +11,8 @@ const CONFIG = {
 	// └─┘┴ ┴└─┘┴└─┘└─┘
 
 	// General
-	name: 'John',
-	imageBackground: false,
+	name: 'Clevs',
+	imageBackground: 'https://i.ibb.co/C9JKW81/cosmos-1853491-1920.jpg',
 	openInNewTab: true,
 	twelveHourFormat: false,
 
